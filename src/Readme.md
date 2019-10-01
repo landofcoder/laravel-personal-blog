@@ -1,0 +1,1 @@
+Download latest version of laravel at here: https://github.com/laravel/laravel/releases
